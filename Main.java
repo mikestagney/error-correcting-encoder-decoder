@@ -64,7 +64,7 @@ public class Main {
             }
         }
 
-        // "/Users/mikestagney/Downloads/send.txt"
+
         static void encodeMessage() {
             try (FileInputStream inputFile = new FileInputStream("send.txt")) {
                 try (FileOutputStream outputFile = new FileOutputStream("encoded.txt")) {
