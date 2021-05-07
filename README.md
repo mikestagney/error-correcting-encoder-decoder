@@ -10,6 +10,8 @@ Significant bits, parity bits and how to use the XOR operator to find and correc
 
 Hamming(7,4) code
 
+Reading and writing files with bytes instead of strings or integers
+
 Using a hex editor to examine files at the binary level
 
 ### Details
