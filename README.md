@@ -1,19 +1,16 @@
 # Error Correcting Encoder Decoder
 
-Uses Hamming code to encode a text file, create random 1-bit errors on each byte and then correct the errors to restore the original text.
+Uses Hamming code to encode a text file, create random 1-bit errors to each byte and then find and correct the errors to restore the original text.
 
 ## Things learned 
 
 Bit shifting and bit masking
 
-Significant and parity bits
+Significant bits, parity bits and how to use the XOR operator to find and correct errors
 
 Hamming(7,4) code
 
-
-
 Using a hex editor to examine files at the binary level
-
 
 ### Details
 
@@ -25,13 +22,9 @@ User options:
 
 Tenth project created for JetBrains Academy Java Developer course - medium level project.
 
-### How to Run
-
-
-
 ### Sample input and output:
 
-Other than the 3 command line options, all input and output is reading and writing text files. The output below shows the files as viewed with a hex editor.
+Other than the 3 command line options, all of input and output is reading and writing text files. The output below shows the files as viewed with a hex editor.
 
 Example 1:
 
