@@ -26,7 +26,7 @@ Tenth project created for JetBrains Academy Java Developer course - medium level
 
 ### Sample input and output:
 
-Other than the 3 command line options, all of input and output is reading and writing text files. The output below shows the files as viewed with a hex editor.
+Other than the 3 command line options, all of input and output is reading from and writing to text files. The output below shows the files as viewed with a hex editor.
 
 Example 1:
 
